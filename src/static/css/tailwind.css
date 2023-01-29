@@ -17,5 +17,7 @@ h3 {
 
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
-  @apply bg-blue-600;
+  @apply bg-gray-800;
 }
+
+body{background: #fff url(../../bg.png) repeat center center;}
