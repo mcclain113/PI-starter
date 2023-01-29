@@ -3,12 +3,9 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
-/*body{
-  @apply bg-background-pic(bg-repeat)
-}
-body{
-  background:url(../../bg.png) repeat center center;}
-*/
+
+
+
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
@@ -22,5 +19,6 @@ h3 {
 
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
-  @apply bg-gray-800;
+  /*@apply bg-gray-800;*/
+  @apply bg-background-pic(bg-repeat)
 }
