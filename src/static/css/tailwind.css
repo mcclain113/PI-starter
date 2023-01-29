@@ -22,7 +22,8 @@ body pre[class*="language-"] {
   @apply bg-gray-800;
 
 }
-
+/*
 body {
   @apply bg-backgroundPic;
 }
+*/
