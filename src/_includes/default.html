@@ -19,9 +19,9 @@
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
-
+<link rel="stylesheet" type="text/css" href="../static/css/tailwind.css">
   </head>
-  <body style="background: #fff url(../bg.png) repeat center center;">
+  <body>
     {% include "./partials/navbar.html" %}
 
     {{ content | safe }}
