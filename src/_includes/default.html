@@ -17,11 +17,11 @@
     {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
     {% if prism == true %}
-      <link rel="stylesheet" type="text/css" href="../static/css/tailwind.css">
+      <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
 
   </head>
-  <body>
+  <body style="background: #fff url(../bg.png) repeat center center !important;">
     {% include "./partials/navbar.html" %}
 
     {{ content | safe }}
