@@ -3,6 +3,14 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+body{ font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+
+  overflow-x: hidden;
+  background: #fff url(../../bg.png) repeat center center;}
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
