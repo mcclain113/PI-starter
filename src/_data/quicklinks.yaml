@@ -1,14 +1,9 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: PharmacyInformatics- Blog
+    url: "https://pharmacyinformatics.blog/blog/"
+    desc: Blogs and content provided by the world-class team that brings you pharmacyinformtics.net
+  - title: PharmacyInformatics.Net Publications
+    url: "https://www.pharmacyinformatics.net/publications.html"
+    desc: Direct link to the comprehensive pharmacyinformatics.net publication site
+
