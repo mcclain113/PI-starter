@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+.bgpi{
+  @apply bg-background-pic(bg-repeat)
+}
 body{
   background:url(../../bg.png) repeat center center;}
 

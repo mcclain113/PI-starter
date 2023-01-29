@@ -5,9 +5,13 @@ module.exports = {
       center: true,
     },
     extend: {
+      backgroundImage: {
+        'background-pic': "url('src/bg.png')"
+      },
       colors: {},
     },
   },
   variants: {},
   plugins: [require("@tailwindcss/typography")],
+
 };
