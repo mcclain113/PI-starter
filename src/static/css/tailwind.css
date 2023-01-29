@@ -19,5 +19,5 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
-
-body{background: #fff url(../../bg.png) repeat center center;}
+body{
+background: #fff url(../../bg.png) repeat center center;}
