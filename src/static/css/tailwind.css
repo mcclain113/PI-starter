@@ -3,11 +3,12 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
-.bgpi{
+body{
   @apply bg-background-pic(bg-repeat)
 }
-body{
+/*body{
   background:url(../../bg.png) repeat center center;}
+*/
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
