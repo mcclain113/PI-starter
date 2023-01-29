@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
-body{
+/*body{
   @apply bg-background-pic(bg-repeat)
 }
-/*body{
+body{
   background:url(../../bg.png) repeat center center;}
 */
 
