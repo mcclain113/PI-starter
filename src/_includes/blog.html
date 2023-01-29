@@ -1,25 +1,12 @@
 ---
 title: Pharmacy Informatics Blog
 layout: default
-pagination:
-    data: collection.posts
-    size: 2
-    alias: posts
 ---
 
+<div class="container max-w-3xl mt-6 px-6">
 
-<ol>
-    {% for post in posts %}
-    <div class="container max-w-3xl mt-6 px-6">
+    <h1 class="font-bold text-5xl">{{title}}</h1>
 
-        <h1 class="font-bold text-5xl">{{title}}</h1>
+    {{ content | safe }}
 
-        {{ content | safe }}
-
-    </div>
-    {% endfor %}
-</ol>
-
-{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous page</a>{% endif %}
-|
-{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next page</a>{% endif %}
+</div>
