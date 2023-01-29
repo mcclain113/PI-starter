@@ -24,5 +24,6 @@ body pre[class*="language-"] {
 }
 
 body {
-  @apply bg-emerald-200;
+  @apply bg-transparent;
 }
+
