@@ -11,6 +11,7 @@
     <title>
       {{title}}
     </title>
+    <link rel="stylesheet" type="text/css" href="../static/css/tailwind.css">
     {% if description %}
       <meta name="description" content="{{description}}"/>
     {% endif %}
@@ -19,7 +20,7 @@
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
-<link rel="stylesheet" type="text/css" href="../static/css/tailwind.css">
+
   </head>
   <body>
     {% include "./partials/navbar.html" %}
