@@ -32,4 +32,6 @@ The real benefit of using the Netlify CMS was pretty clear once I was in there. 
 www.example.com/admin/
 ```
 
-![Netlify CMS in action](/static/img/netlify-cms-example.png "What Netlify CMS Looks Like")
+![Netlify CMS Admin](/static/img/netlify-cms-blog.png "What Netlify CMS Looks Like (admin)")
+
+![Netlify CMS Blog](/static/img/netlify-cms-example.png "What Netlify CMS Looks Like (blog entry)")
