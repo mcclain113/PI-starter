@@ -1,5 +1,5 @@
 ---
-title: First Blog Post and How to Create a Blog Site
+title: First Blog Post and How to Create a Blog Website
 description: This blog is a new site that is part of the pharmacyinformatics.net
   collection of tools, publications, and other resources pertaining to the world
   of pharmacy informatics.  This blog will be used to post updates to
