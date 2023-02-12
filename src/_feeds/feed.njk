@@ -6,6 +6,7 @@
     "title": "Pharmacy Informatics",
     "subtitle": "Premium Pharmacy Informatics Resources",
     "url": "https://pharmacyinformatics.blog/",
+    "imgUrl": "https://pharmacyinformatics.net/images/Pharmacyinformaticsfeed.png",
     "feedUrl": "https://pharmacyinformatics.blog/feed.xml",
     "author": {
       "name": "Barry McClain",
@@ -21,6 +22,11 @@
     <link>{{ metadata.url }}</link>
     <atom:link href="{{ permalink | absoluteUrl(metadata.feedUrl) }}" rel="self" type="application/rss+xml" />
     <description>{{ metadata.subtitle }}</description>
+    <image>
+        <url>{{ metadata.imgUrl }}</url>
+        <title>{{ metadata.title }}</title>
+        <link>{{ metadata.url }}</link>
+    </image>
     <language>en</language>
     {%- for post in collections.blogging | reverse %}
         {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
