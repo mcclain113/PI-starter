@@ -1,6 +1,6 @@
 ---
 imagePath: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
-alt: rss icon
+alt: rss icon update
 featured_image:
   src: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
   alt: RSS Icon
