@@ -1,6 +1,6 @@
 ---
 imagePath: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
-alt: rss icon
+alt: rss icon update
 featured_image:
   src: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
   alt: RSS Icon
@@ -9,7 +9,7 @@ title: It is Getting Easier to Stay Up-to-Date With Pharmacy Informatics- New RS
 description: Using our new blog site, we have implemented a feed that can be
   used with RSS readers as another means to stay current.
 author: Barry McClain
-date: 2023-02-10T05:04:51.249Z
+date: 2023-02-13T02:46:31.178Z
 tags:
   - pharmacyinformatics
 ---
