@@ -27,7 +27,7 @@ collections:
       - { label: "Featured Image", name: "imagePath", widget: "string" }
       - { label: "alt", name: "alt", widget: "string" }
       - name: featured_image
-        label: Featured image
+        label: Original Featured image
         widget: object
         fields:
           - { name: src, label: Image, widget: image }
