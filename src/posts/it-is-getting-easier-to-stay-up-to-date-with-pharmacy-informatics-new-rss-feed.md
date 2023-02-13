@@ -5,7 +5,7 @@ description: Using our new blog site, we have implemented a feed that can be
 author: Barry McClain
 date: 2023-02-10T05:04:51.249Z
 tags:
-  - Tags
+  - pharmacyinformatics
 ---
 Again, pharmacyinformatics.blog has developed our blog site (aka social media machine) using 11ty and Netlify CMS. The newest feature is this really simple syndication (RSS) feed, which is a fairly easy plugin that can be customized for your site and then validated through the [W3C RSS Validator](https://validator.w3.org/feed/):
 
