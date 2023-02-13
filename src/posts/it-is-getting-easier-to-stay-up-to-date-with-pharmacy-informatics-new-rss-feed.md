@@ -4,6 +4,10 @@ description: Using our new blog site, we have implemented a feed that can be
   used with RSS readers as another means to stay current.
 author: Barry McClain
 date: 2023-02-10T05:04:51.249Z
+featured_image:
+  src: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
+  alt: RSS Icon
+  title: RSS Icon
 tags:
   - pharmacyinformatics
 ---
