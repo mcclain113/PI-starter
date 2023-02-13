@@ -1,15 +1,11 @@
 ---
-imagePath: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
-alt: rss icon update
-featured_image:
-  src: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
-  alt: RSS Icon
-  title: RSS Icon
 title: It is Getting Easier to Stay Up-to-Date With Pharmacy Informatics- New RSS Feed
 description: Using our new blog site, we have implemented a feed that can be
   used with RSS readers as another means to stay current.
 author: Barry McClain
-date: 2023-02-13T02:46:31.178Z
+date: 2023-02-11T02:56:14.004Z
+imagePath: https://www.pharmacyinformatics.net/image/Feed-icon.svg.png
+alt: rss icon update
 tags:
   - pharmacyinformatics
 ---
