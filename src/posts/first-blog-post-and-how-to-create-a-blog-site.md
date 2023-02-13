@@ -1,4 +1,10 @@
 ---
+imagePath: https://www.pharmacyinformatics.net/images/logo2.png
+alt: pharmacy informatics logo
+featured_image:
+  alt: pharmacy informatics logo
+  title: pharmacy informatics logo
+  src: https://www.pharmacyinformatics.net/images/logo2.png
 title: First Blog Post and How to Create a Blog Website
 description: This blog is a new site that is part of the pharmacyinformatics.net
   collection of tools, publications, and other resources pertaining to the world
@@ -9,10 +15,6 @@ description: This blog is a new site that is part of the pharmacyinformatics.net
   and design of a blog website.
 author: Barry McClain
 date: 2023-01-30T05:32:34.092Z
-featured_image:
-  alt: pharmacy informatics logo
-  title: pharmacy informatics logo
-  src: https://www.pharmacyinformatics.net/images/logo2.png
 tags:
   - pharmacyinformatics
 ---
