@@ -5,6 +5,8 @@ description: Using our new blog site, we have implemented a feed that can be
 author: Barry McClain
 date: 2023-02-11T02:56:14.004Z
 imagePath: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed.png
+length: "1024"
+format: png
 alt: rss icon update
 tags:
   - pharmacyinformatics
