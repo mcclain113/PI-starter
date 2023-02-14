@@ -4,7 +4,7 @@ description: Using our new blog site, we have implemented a feed that can be
   used with RSS readers as another means to stay current.
 author: Barry McClain
 date: 2023-02-11T02:56:14.004Z
-imagePath: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site.png
+imagePath: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed.png
 alt: rss icon update
 tags:
   - pharmacyinformatics
