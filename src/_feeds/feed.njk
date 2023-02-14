@@ -33,7 +33,7 @@
         <item>
             <title>{{ post.data.title }}</title>
             <link>{{ absolutePostUrl }}</link>
-            <enclosure url="{{ post.data.imagePath }}" length="{{ post.data.length }}" type="image/{{ post.data.length }}" />
+            <enclosure url="{{ post.data.imagePath }}" length="{{ post.data.length }}" type="image/{{ post.data.format }}" />
             <description>{{ post.data.description }}</description>
             <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
             <dc:creator>{{ metadata.author.name }}</dc:creator>
