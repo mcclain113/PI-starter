@@ -9,8 +9,8 @@ description: This blog is a new site that is part of the pharmacyinformatics.net
   and design of a blog website.
 author: Barry McClain
 date: 2023-01-30T05:32:00.000Z
-imagePath: https://www.pharmacyinformatics.net/images/logo2.png
-length: "1283"
+imagePath: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site.png
+length: "1983"
 format: png
 alt: pharmacy informatics logo
 tags:
