@@ -1,4 +1,7 @@
 ---
+imagePath: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/0.png
+length: "1983"
+alt: pharmacy informatics logo
 title: First Blog Post and How to Create a Blog Website
 description: This blog is a new site that is part of the pharmacyinformatics.net
   collection of tools, publications, and other resources pertaining to the world
@@ -9,10 +12,16 @@ description: This blog is a new site that is part of the pharmacyinformatics.net
   and design of a blog website.
 author: Barry McClain
 date: 2023-01-30T05:32:00.000Z
-imagePath: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site.png
-length: "1983"
+imagePath1: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/1.png
+imagePath2: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/2.png
+imagePath3: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/3.png
+imagePath4: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/4.png
+imagePath5: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/5.png
+imagePath6: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/6.png
+imagePath7: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/7.png
+imagePath8: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/8.png
+imagePath9: https://www.pharmacyinformatics.net/blog/static/img/first-blog-post-and-how-to-create-a-blog-site/9.png
 format: png
-alt: pharmacy informatics logo
 tags:
   - pharmacyinformatics
 ---
