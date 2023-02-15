@@ -16,7 +16,7 @@
 }
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ metadata.title }}</title>
     <link>{{ metadata.url }}</link>
@@ -39,16 +39,16 @@
             <dc:creator>{{ metadata.author.name }}</dc:creator>
             <guid>{{ absolutePostUrl }}</guid>
             <media:group>
-            <media:content medium="image" url="{{ post.data.imagePath }}" height="619" width="1100" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath1 }}" height="300" width="300" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath2 }}" height="552" width="414" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath3 }}" height="480" width="640" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath4 }}" height="324" width="576" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath5 }}" height="360" width="270" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath6 }}" height="169" width="300" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath7 }}" height="250" width="250" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath8 }}" height="186" width="248" type="image/{{ post.data.format }}"/>
-            <media:content medium="image" url="{{ post.data.imagePath9 }}" height="144" width="256" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath }}" height="619" width="1100" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath1 }}" height="300" width="300" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath2 }}" height="552" width="414" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath3 }}" height="480" width="640" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath4 }}" height="324" width="576" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath5 }}" height="360" width="270" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath6 }}" height="169" width="300" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath7 }}" height="250" width="250" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath8 }}" height="186" width="248" type="image/{{ post.data.format }}"/>
+                <media:content medium="image" url="{{ post.data.imagePath9 }}" height="144" width="256" type="image/{{ post.data.format }}"/>
             </media:group>
         </item>
     {%- endfor %}
