@@ -1,13 +1,22 @@
 ---
+imagePath: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/0.png
+length: "1024"
+alt: rss icon update
 title: It is Getting Easier to Stay Up-to-Date With Pharmacy Informatics- New RSS Feed
 description: Using our new blog site, we have implemented a feed that can be
   used with RSS readers as another means to stay current.
 author: Barry McClain
 date: 2023-02-11T02:56:14.004Z
-imagePath: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed.png
-length: "1024"
+imagePath1: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/1.png
+imagePath2: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/2.png
+imagePath3: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/3.png
+imagePath4: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/4.png
+imagePath5: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/5.png
+imagePath6: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/6.png
+imagePath7: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/7.png
+imagePath8: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/8.png
+imagePath9: https://www.pharmacyinformatics.net/blog/static/img/it-is-getting-easier-to-stay-up-to-date-with-pharmacy-informatics-new-rss-feed/9.png
 format: png
-alt: rss icon update
 tags:
   - pharmacyinformatics
 ---
