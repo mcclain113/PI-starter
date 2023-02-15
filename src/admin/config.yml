@@ -24,10 +24,17 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Featured Image", name: "imagePath", widget: "string" }
-      - { label: "Length", name: "length", widget: "string" }
+      - { label: "Image H619 W1100", name: "imagePath", widget: "string" }
+      - { label: "Image H300 W300", name: "imagePath1", widget: "string" }
+      - { label: "Image H552 W414", name: "imagePath2", widget: "string" }
+      - { label: "Image H480 W640", name: "imagePath3", widget: "string" }
+      - { label: "Image H324 W576", name: "imagePath4", widget: "string" }
+      - { label: "Image H360 W270", name: "imagePath5", widget: "string" }
+      - { label: "Image H169 W300", name: "imagePath6", widget: "string" }
+      - { label: "Image H250 W250", name: "imagePath7", widget: "string" }
+      - { label: "Image H186 W248", name: "imagePath8", widget: "string" }
+      - { label: "Image H144 W256", name: "imagePath9", widget: "string" }
       - { label: "File Format", name: "format", widget: "string" }
-      - { label: "alt", name: "alt", widget: "string" }
       #- name: featured_image
         #label: Original Featured image
         #widget: object
