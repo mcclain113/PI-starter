@@ -7,7 +7,7 @@ description: "The Board of Pharmacy Specialties (BPS) is considering the
   into whether or not it should be called pharmacoinformatics versus pharmacy
   informatics. I am working on a separate publication for that discussion."
 author: Barry McClain
-date: 2023-07-04T04:21:44.494Z
+date: 2023-07-04T16:36:43.301Z
 imagePath: https://www.pharmacyinformatics.net/blog/static/img/why-is-it-important-for-the-bps-to-recognize-pharmacy-informatics-as-a-specialty/0.png
 imagePath1: https://www.pharmacyinformatics.net/blog/static/img/why-is-it-important-for-the-bps-to-recognize-pharmacy-informatics-as-a-specialty/1.png
 imagePath2: https://www.pharmacyinformatics.net/blog/static/img/why-is-it-important-for-the-bps-to-recognize-pharmacy-informatics-as-a-specialty/2.png
